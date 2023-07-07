@@ -1,8 +1,8 @@
 {
   "grasses": 4,
-  "grEaters": 40,
-  "predator": 10,
+  "grEaters": 4,
+  "predator": 8,
   "good": 100,
-  "randon": 126,
+  "randon": 145,
   "star": 28
 }
